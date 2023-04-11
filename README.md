@@ -14,3 +14,7 @@ Latest version:
 
 Stable (LTS) version: (if currently in use)
 `nvm install "lts/*" --reinstall-packages-from="$(nvm current)"`
+
+
+to uninstall
+`npm uninstall -g create-react-app`
