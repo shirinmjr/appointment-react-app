@@ -22,6 +22,9 @@ To update npm version:
 To create a new React project:
 `npx create-react-app react-app`
 
+To start React app
+`npm start`
+
 ## Uninstall
 To uninstall React App
 `npm uninstall -g create-react-app`
