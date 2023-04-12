@@ -1,12 +1,9 @@
 # react-project
 
-To create a new React project:
-`npx create-react-app react-app`
 
+## Before you start
 
-Notes:
-To update npm version:
-`npm install -g npm`
+Check node verstopn `node -v`
 
 To Update Node Version
 Latest version:
@@ -15,6 +12,16 @@ Latest version:
 Stable (LTS) version: (if currently in use)
 `nvm install "lts/*" --reinstall-packages-from="$(nvm current)"`
 
+check npm versnion `npm -v` (ok if it's higher than 5.2)
 
-to uninstall
+To update npm version:
+`npm install -g npm`
+
+
+## Create React App
+To create a new React project:
+`npx create-react-app react-app`
+
+## Uninstall
+To uninstall React App
 `npm uninstall -g create-react-app`
