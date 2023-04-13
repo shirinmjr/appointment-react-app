@@ -28,6 +28,9 @@ To update npm version:
 * Install react router verstion 6
 `npm install react-router-dom@6`
 
+* Run React Test
+`npm test`
+
 ## Uninstall
 To uninstall React App
 `npm uninstall -g create-react-app`
