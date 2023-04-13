@@ -39,6 +39,8 @@ Note: If it gives you strange errors, reinstall npm
 Dependencies:
 -> To Install React Icon
 `npm install react-icons --save`
+- To import it tp your file 
+`import { BiArchive } from "react-icons/bi";`
 
 
 
