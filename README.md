@@ -42,6 +42,13 @@ Dependencies:
 - To import it tp your file 
 `import { BiArchive } from "react-icons/bi";`
 
+-> Tailwind CSS
+To install: 
+```
+npm install -D tailwindcss
+npx tailwindcss init
+```
+
 
 
 ## Uninstall
