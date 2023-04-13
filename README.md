@@ -35,7 +35,7 @@ Note: If it gives you strange errors, reinstall npm
 * Create production build Application
 `npm run build`
 
---------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 Dependencies:
 -> To Install React Icon
 `npm install react-icons --save`
@@ -50,6 +50,16 @@ npx tailwindcss init
 ```
 -> To install Craco
 `npm install @craco/craco`
+and add this script to package.json
+```
+"scripts":{
+    "start" : "craco start",
+    "build" : "craco build",
+    "test" : "craco test",
+    ...
+    }
+```
+----------------------------------------------------------------------------------------------------------------
 
 ## Uninstall
 To uninstall React App
