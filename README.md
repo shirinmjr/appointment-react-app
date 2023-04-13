@@ -31,6 +31,9 @@ To update npm version:
 * Run React Test
 `npm test`
 
+* Create production build Application
+`npm run build`
+
 ## Uninstall
 To uninstall React App
 `npm uninstall -g create-react-app`
