@@ -19,11 +19,14 @@ To update npm version:
 
 
 ## Create React App
-To create a new React project:
+*To create a new React project:
 `npx create-react-app react-app`
 
-To start React app
+*To start React app
 `npm start`
+
+*Install react router verstion 6
+`npm install react-router-dom@6`
 
 ## Uninstall
 To uninstall React App
