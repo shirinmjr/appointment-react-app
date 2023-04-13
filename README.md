@@ -59,6 +59,7 @@ and add this script to package.json
     ...
     }
 ```
+Add the paths to all of your template files in your tailwind.config.js file.
 ```
 /** @type {import('tailwindcss').Config} */
 module.exports = {
