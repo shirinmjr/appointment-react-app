@@ -39,6 +39,7 @@ Note: If it gives you strange errors, reinstall npm
 -> To Install React Icon
 `npm install react-icon --save`
 
+
 ## Uninstall
 To uninstall React App
 `npm uninstall -g create-react-app`
