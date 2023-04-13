@@ -48,8 +48,8 @@ To install:
 npm install -D tailwindcss
 npx tailwindcss init
 ```
-
-
+-> To install Craco
+`npm install @craco/craco`
 
 ## Uninstall
 To uninstall React App
