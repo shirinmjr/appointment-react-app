@@ -36,8 +36,10 @@ Note: If it gives you strange errors, reinstall npm
 `npm run build`
 
 --------------------------------------------------------
+Dependencies:
 -> To Install React Icon
-`npm install react-icon --save`
+`npm install react-icons --save`
+
 
 
 ## Uninstall
