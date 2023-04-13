@@ -19,6 +19,7 @@ To update npm version:
 
 
 ## Create React App
+Note: If it gives you strange errors, reinstall npm
 * To create a new React project:
 `npx create-react-app react-app`
 
