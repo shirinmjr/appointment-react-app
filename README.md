@@ -48,17 +48,6 @@ To install:
 npm install -D tailwindcss
 npx tailwindcss init
 ```
--> To install Craco
-`npm install @craco/craco`
-and add this script to package.json
-```
-"scripts":{
-    "start" : "craco start",
-    "build" : "craco build",
-    "test" : "craco test",
-    ...
-    }
-```
 Add the paths to all of your template files in your tailwind.config.js file.
 ```
 /** @type {import('tailwindcss').Config} */
