@@ -19,6 +19,7 @@ To update npm version:
 
 
 ## Create React App
+Note: If it gives you strange errors, reinstall npm
 * To create a new React project:
 `npx create-react-app react-app`
 
@@ -33,6 +34,32 @@ To update npm version:
 
 * Create production build Application
 `npm run build`
+
+--------------------------------------------------------------------------------------------------------------
+Dependencies:
+-> To Install React Icon
+`npm install react-icons --save`
+- To import it tp your file 
+`import { BiArchive } from "react-icons/bi";`
+
+-> Tailwind CSS
+To install: 
+```
+npm install -D tailwindcss
+npx tailwindcss init
+```
+Add the paths to all of your template files in your tailwind.config.js file.
+```
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{html,js}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+----------------------------------------------------------------------------------------------------------------
 
 ## Uninstall
 To uninstall React App
